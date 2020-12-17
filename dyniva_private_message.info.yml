@@ -1,0 +1,16 @@
+name: 'Dyniva Private Message'
+type: module
+description: 'Dyniva for private message.'
+core: 8.x
+package: Dyniva
+dependencies:
+  - block
+  - field
+  - field_permissions
+  - message
+  - multiselect
+  - options
+  - private_message
+  - system
+  - text
+  - views

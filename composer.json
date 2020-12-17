@@ -1,0 +1,11 @@
+
+{
+    "name": "davyin/dyniva_private_message",
+    "description": "admin theme for drupal.",
+    "type": "drupal-custom-module",
+    "license": "GPL-2.0-or-later",
+    "homepage": "https://github.com/davyin-co/dyniva_private_message",
+    "require": {
+        "drupal/core": "^8.6.0"
+    }
+}

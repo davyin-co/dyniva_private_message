@@ -1,7 +1,7 @@
 name: 'Dyniva Private Message'
 type: module
 description: 'Dyniva for private message.'
-core: 8.x
+core_version_requirement: ^8.8 || ^9
 package: Dyniva
 dependencies:
   - block
